@@ -1,4 +1,4 @@
-                                                                <-  panda  ->
+                         <-  panda  ->
 
 - 👋 Hi, I’m @panda-lk
 - 👀 I’m interested in ...
