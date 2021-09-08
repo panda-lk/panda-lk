@@ -1,11 +1,17 @@
-      >                                                           <-  panda  ->                                              <
-- 👋 Hi, I’m @panda-lk  
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+                                                                 < -  panda  - >
+      >-<- FULL STACK ->-<
+ 
+ const user = [
+      
+      name : 'panda',
+      
+      mail : 'lk.panda.user@outlook.com',
+      
+      telegram:'313-324-3596',
+      
+      country:'colombia',
+ 
+ ]
 
-<!---
-panda-lk/panda-lk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+ © </> ®                                                               <-   lk   ->
