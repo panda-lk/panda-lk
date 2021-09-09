@@ -1,4 +1,4 @@
-                                                                 < -  panda  - >
+                                                               < -  panda  - >
       >-<- FULL STACK ->-<
  
  const user = {
